@@ -4,5 +4,4 @@ public class Greet {
     System.out.println(input);
     System.out.println(age);
   }
-
 }
