@@ -1,5 +1,9 @@
 public class Future {
-    public void future(String astrology, String astrology2) {
-        System.out.println(astrology);
+
+
+    private String astrology;
+    public void future(){
+        System.out.println("Your future looks like" + astrology);
+
     }
 }
