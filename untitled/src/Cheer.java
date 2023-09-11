@@ -1,6 +1,6 @@
 public class Cheer {
-    private String teamName = "Next Presso";
-    public void cheer(String teamName){
-        System.out.println("Welcome to " + teamName);
+    private String language = "Java";
+    public void cheer(String language){
+        System.out.println("You're using " + language);
     }
 }
